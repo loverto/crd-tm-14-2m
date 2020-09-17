@@ -82,8 +82,8 @@ let mouldPosition = ["  ","194,509","306,509","423,506","539,508"]
 
 let mergePosition = ["515,369","596,374"]
 
-let topArea = ["444,249","717,553"]
-let bottomArea = ["701,624","424,392"]
+let topArea = ["437,257","569,540"]
+let bottomArea = ["699,549","543,247"]
 
 
 // 导出需要选择的坐标点
@@ -275,7 +275,7 @@ function main(configObject) {
 
                         common.selectAreaByArray(topArea);
 
-                        // common.selectAreaByArray(bottomArea);
+                        common.selectAreaByArray(bottomArea);
 
                         dm.keyUp(keycode("shift"))
 

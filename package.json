@@ -1,6 +1,6 @@
 {
   "name": "crd-tm-14-4m-2t",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CRD贴膜14寸4面两套通用排版工具",
   "main": "src/main/main.js",
   "scripts": {
